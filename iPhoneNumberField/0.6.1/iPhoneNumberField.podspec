@@ -11,7 +11,7 @@ s.author = { "Seyed Mojtaba Hosseini Zeidabadi" => "ca.chairman@gmail.com" }
 
 s.license = { :type => "GPLv3" }
 s.homepage = "https://github.com/MojtabaHs/iPhoneNumberField"
-s.source = { :git => "https://github.com/Sega-Zero/iPhoneNumberField.git", :tag => "{spec.version}", , :branch => "flag-crash-fix"}
+s.source = { :git => "https://github.com/Sega-Zero/iPhoneNumberField.git", :tag => "{spec.version}", :branch => "flag-crash-fix"}
 
 s.dependency 'PhoneNumberKit', '~> 3.3.3'
 
